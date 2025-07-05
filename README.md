@@ -1,4 +1,4 @@
-# Conversational-Chatbot
+# HashTech
 ## Overview
 
 This project integrates Google AI services into a Gradio application, featuring:
@@ -115,14 +115,4 @@ Make sure you have the following installed:
   ```
 
 
-
-## Contributing
-
-Contributions are welcome! Please submit issues or pull requests to enhance the project.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
 
